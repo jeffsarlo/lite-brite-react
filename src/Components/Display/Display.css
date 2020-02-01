@@ -1,0 +1,12 @@
+.display {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex: 5;
+  width: 921px;
+  height: 400px;
+  margin-top: 2%;
+  padding: 0;
+  background: rgb(22,23,25);
+}
